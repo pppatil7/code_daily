@@ -16,7 +16,6 @@ public class Menu {
 			String s=sc.next();
 			choice=s.charAt(0);
 				
-			
 				switch(choice) {
 				case 'a':
 					System.out.println("hello");
@@ -35,7 +34,6 @@ public class Menu {
 			    	System.out.println("error");
 			    	break;
 				}
-		
 		}
 	}
 }
